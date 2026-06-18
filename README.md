@@ -2,7 +2,7 @@
 
 Não obstante, o "grau de fechamento" dos trabalhos monetizados (por exemplo, aqueles em assinaturas e cursos, YouTube ou Hotmart) será respeitado. De modo a não macular a economia empreendedora dos respectivos autores. Este compromisso será honrado mediante trabalho próprio: reapresentando, reformatando objetos, sempre que se tornar o caso.
 
-Estamos continuamente analisando o que de fato cada autor original "abriu". Esperamos ser sempre apenas um "eco", benéfico. Oganizar. Referenciar. Creditar. Jamais plagiar.
+Estamos continuamente analisando o que de fato cada autor original "abriu". Esperamos ser sempre apenas um "eco", benéfico. Organizar. Referenciar. Creditar. Jamais plagiar.
 
 **"FoF"** ≈ _follow of a follow_ ≈ _seguidor de um seguidor_
 
@@ -18,4 +18,4 @@ Discussões poderão acontecer nas _issues_, nos _projects_, e consolidar conhec
 
 Nosso idioma é o **português do Brasil.** O público imediato é a comunidade brasileira de RC que esteja interessada em DIY _arduino-like_.
 
-Eu, @alexandre-mbm, posiciono-me como estudante e orquestrador, entusiasta de Github (FOSS).
+@alexandre-mbm posiciona-se como estudante e orquestrador, entusiasta de Github (FOSS).

@@ -1,10 +1,10 @@
-**"Ocara"**, no nome do repositório, não é, em primeiro lugar, sobre sermos (eu pretender ser) alguém no ecossistema, é sobre reconhecermos o mérito de cada pessoa que generosamente compartilha o que sabe. Por feliz coincidência, faz homenagem explícita a Martin Sommer, autor original do _open hardware_ que viabilizou uma [apredizagem conjunta]() de eletrônica, _design_ e programação. Note-se que **cada um na cadeia de seguidores é honrado por esta representação.**
+**"Ocara"**, no nome do repositório, não é, em primeiro lugar, sobre sermos (eu pretender ser) alguém no ecossistema, é sobre reconhecermos o mérito de cada pessoa que generosamente compartilha o que sabe. Por feliz coincidência, faz homenagem explícita a [Martin Sommer](https://github.com/theDIYGuy99), autor original do _open hardware_ que viabilizou uma [apredizagem conjunta]() de eletrônica, _design_ e programação. Note-se que **cada um na cadeia de seguidores é honrado por esta representação.**
 
 Não obstante, o "grau de fechamento" dos trabalhos monetizados (por exemplo, aqueles em assinaturas e cursos, YouTube ou Hotmart) será respeitado. De modo a não macular a economia empreendedora dos respectivos autores. Este compromisso será honrado mediante trabalho próprio: reapresentando, reformatando objetos, sempre que se tornar o caso.
 
 Estamos continuamente analisando o que de fato cada autor original "abriu". Esperamos ser sempre apenas um "eco", benéfico. Organizar. Referenciar. Creditar. Jamais plagiar.
 
-**"FoF"** ≈ _follow of a follow_ ≈ _seguidor de um seguidor_
+**"FoF"** ≈ _follower of a follower_ ≈ _seguidor de um seguidor_
 
 Esta é a ideia!
 
@@ -18,4 +18,4 @@ Discussões poderão acontecer nas _issues_, nos _projects_, e consolidar conhec
 
 Nosso idioma é o **português do Brasil.** O público imediato é a comunidade brasileira de RC que esteja interessada em DIY _arduino-like_.
 
-@alexandre-mbm posiciona-se como estudante e orquestrador, entusiasta de Github (FOSS).
+@alexandre-mbm posiciona-se como estudante e orquestrador entusiasta de Github (FOSS).
